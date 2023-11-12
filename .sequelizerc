@@ -6,3 +6,4 @@ module.exports = {
     "seeders-path": path.resolve('./api/server/src/seeders'),
     "migrations-path": path.resolve('./api/server/src/migrations')
 }; 
+ 
