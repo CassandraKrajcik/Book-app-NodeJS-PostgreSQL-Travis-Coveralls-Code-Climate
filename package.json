@@ -1,5 +1,5 @@
 {
-  "name": "book-app",
+! "name": "book-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -45,3 +45,4 @@
     "nyc": "^13.3.0"
   }
 }
+ 
